@@ -41,5 +41,5 @@ while keep_going == "y":
     else:
         print("Side 2 died")
         
-    keep_going = input('Enter "y" to continue')
+    keep_going = input('Enter "y" to continue\n')
         
