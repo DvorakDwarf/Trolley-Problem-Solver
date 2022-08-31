@@ -18,6 +18,6 @@ python TrolleyProblemGenerator.py [number of samples]
 ```
 This creates a .csv file in the same folder you had the script in. This file can be opened in google sheets, notepad, whatever can read .csv
 
-#This was fun to work on. Do what you want with the code, but credit would be much appreciated.
+# This was fun to work on. Do what you want with the code, but credit would be much appreciated.
 
  
