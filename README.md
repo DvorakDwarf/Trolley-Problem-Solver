@@ -1,6 +1,6 @@
 ![GitHub](https://img.shields.io/github/license/hunar4321/life_code)
 
-# trolley-problem-solver
+# Trolley-Problem-Solver
 This was my first attempt to dabble in machine learning. Code is not clean whatsoever. I pumped it out as fast possible to make sure I understand how ML works and no more. The project consists of a script to generate trolley problems and a script to solve them "humanely". Everything is written in Python.
 
 To use just download all the files, put them in one folder, install all the python libraries used, and then run ```TrolleyProblemSolver.py``` or ```TrolleyProblemGenerator.py``` depending on what you want.
